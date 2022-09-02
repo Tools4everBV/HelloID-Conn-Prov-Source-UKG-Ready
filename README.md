@@ -16,7 +16,6 @@ UKG Ready (Formerly Kronos Workforce Ready)
 * [Getting Started](#getting-started)
 * [Requirements](#Requirements)
 * [Setup the PowerShell connector](#setup-the-powershell-connector)
-* [Sample VPN Scripts](#sample-vpn-scripts)
 
 <!-- GETTING STARTED -->
 ## Getting Started
