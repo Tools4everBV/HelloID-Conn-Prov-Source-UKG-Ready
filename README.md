@@ -8,8 +8,7 @@ UKG Ready (Formerly Kronos Workforce Ready)
 <br />
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/24281600/188179677-1a0cef16-cf0f-4003-bd6e-50aaa4e16aae.png)
-
+  [image](https://user-images.githubusercontent.com/24281600/188179677-1a0cef16-cf0f-4003-bd6e-50aaa4e16aae.png)
 </p>
 
 <!-- TABLE OF CONTENTS -->
