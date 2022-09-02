@@ -1,0 +1,63 @@
+[
+  {
+    "key": "BaseURI",
+    "type": "input",
+    "defaultValue": "https://secure4.saashr.com/ta/rest",
+    "templateOptions": {
+      "label": "URI",
+      "placeholder": "https://secure4.saashr.com/ta/rest",
+      "required": true
+    }
+  },
+  {
+    "key": "Username",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Username",
+      "placeholder": "myapiuser",
+      "required": true
+    }
+  },
+  {
+    "key": "Password",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Password",
+      "type": "password",
+      "placeholder": "Please enter a password",
+      "required": true
+    }
+  },
+  {
+    "key": "Token",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "API Token",
+      "placeholder": "Please enter API Token",
+      "required": true
+    }
+  },
+  {
+    "key": "Company",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Company Short Name",
+      "placeholder": "Please enter company short name",
+      "required": true
+    }
+  },
+  {
+    "key": "CompanyId",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Company ID",
+      "placeholder": "Please enter company short id",
+      "required": true
+    }
+  }
+]
