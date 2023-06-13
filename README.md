@@ -6,9 +6,8 @@ UKG Ready (Formerly Kronos Workforce Ready)
 | This repository contains the connector and configuration code only. The implementer is responsible to acquire the connection details such as username, password, certificate, etc. You might even need to sign a contract or agreement with the supplier before implementing this connector. Please contact the client's application manager to coordinate the connector requirements.       |
 
 <br />
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24281600/188179677-1a0cef16-cf0f-4003-bd6e-50aaa4e16aae.png" />
+  <img src="https://www.tools4ever.nl/connector-logos/ukgready-logo.png" width="500">
 </p>
 
 <!-- TABLE OF CONTENTS -->
